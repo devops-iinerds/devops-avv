@@ -1,2 +1,2 @@
 # devops-avv
-Amrita Training Program
+ASAP Training Program
